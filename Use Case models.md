@@ -44,6 +44,19 @@ Step 8: If the user does not enter a required field, a message is displayed and 
 Postconditions:	The user can now obtain data and perform functions according to his registered access level.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Use case 2
 Login User.
 
