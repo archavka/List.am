@@ -1,6 +1,3 @@
-# Use Case Models
-
-
 # Register User.
 
 In order to get personalized or restricted information, place orders or do other specialized actions a new user must register a username(email) and password.
