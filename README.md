@@ -1,6 +1,6 @@
 # List.am-requirments
 
-This is a Requirements Specification document for list.am.
+This is a Requirements Specification document for List.am.
 
 Purpose of Document.
 List.am provides a platform for people to connect around a life stage, a need, a pastime, interest or passion. This document describes it's scope, objectives and goal. In addition to describing non-functional requirements, It also models the functional requirements with use cases.
@@ -17,7 +17,7 @@ Guests, can find site navigation, product identification
 
 Signed in (be able to access restricted areas of the site through a password protection scheme).
 
-Buyers(can find site navigation, product identification and product ordering)and/or
+Buyers(can find site navigation, product identification and product ordering) and/or
 Product owners (allowed to maintain the data about their products).
 
 
@@ -41,9 +41,6 @@ find the exact phrase
 
 
 The system shall allow user to view the owner of any product and contact him.
-
-
-The system shall display information that is customized based on the user's job function, application and location. This feature will improve service by reducing the mean number of web pages a user must navigate per session. It should reduce unnecessary phone calls.(I think it doesn't)
 
 
 
