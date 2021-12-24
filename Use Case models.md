@@ -1,4 +1,5 @@
 Use Case 1.
+
 Register User.
 
 In order to get personalized or restricted information, place orders or do other specialized actions a new user must register a username(email) and password.
@@ -42,6 +43,12 @@ Step 8: If the user does not enter a required field, a message is displayed and 
 
 
 Postconditions:	The user can now obtain data and perform functions according to his registered access level.
+*
+*
+*
+*
+*
+*
 
 
 
@@ -57,7 +64,8 @@ Postconditions:	The user can now obtain data and perform functions according to 
 
 
 
-Use case 2
+Use Case 2.
+
 Login User.
 
 In order to get personalized or restricted information, place orders or do other specialized actions a user must login so that that the system can determine his access level.
