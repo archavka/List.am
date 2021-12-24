@@ -8,13 +8,13 @@ Basic Flow:
 
 Step 1.The use case start when a user indicates that he wants to register.
 
-Step 2.The system requests a email and password.
+Step 2.The system requests an email and password.
 
 Step 3.The system requests to enter verification number.
 
 Step 4.The system requests to agree to the Posting Rules and List.am Terms of Service. (defect found: there is no document with terms and rules to agree with)
 
-Step 5.The user enters a email and password.
+Step 5.The user enters an email and password.
 
 Step 6.The user enters the verification number.
 
