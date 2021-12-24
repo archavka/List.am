@@ -48,7 +48,7 @@ Postconditions:	The user can now obtain data and perform functions according to 
 
 
 
-Use Case 2.
+# Use Case 2.
 
 Login User.
 
