@@ -1,5 +1,5 @@
 Register User.
-n order to get personalized or restricted information, place orders or do other specialized actions a new user must register a username(email) and password.
+In order to get personalized or restricted information, place orders or do other specialized actions a new user must register a username(email) and password.
 
 Basic Flow:
 Step 1.The use case start when a user indicates that he wants to register.
