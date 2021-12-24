@@ -34,6 +34,7 @@ Step 13.The system starts a login session and displays a welcome message.
 
 
 
+
 Alternative Flows:
 
 Step 7: If the username duplicates an existing username the system displays a message and the use case goes back to step 2.
