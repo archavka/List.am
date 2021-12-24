@@ -33,6 +33,7 @@ Step 12.The user activates account by following that instructions.
 Step 13.The system starts a login session and displays a welcome message.
 
 
+
 Alternative Flows:
 
 Step 7: If the username duplicates an existing username the system displays a message and the use case goes back to step 2.
@@ -70,15 +71,10 @@ Step 4: if the password is invalid the system requests that the user re-enter th
 
 
 Preconditions:
-
 The user is registered.
 
-
 Postconditions:
-
 The user can now obtain data and perform functions according to his registered access level.
 
-
 Business Rules:	
-
 Some data and functions are restricted to certain types of users or users with a particular access level.
