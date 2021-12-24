@@ -32,20 +32,33 @@ Translation of a web page to another languages.
 Functional objectives:
 
 The system shall provide a search facility that will allow full-text searching of all web pages that the user is permitted to access. The system must support the following searches:
+
 find all words specified
+
 find any word specified
+
 find the exact phrase
 
+
 The system shall allow user to view the owner of any product and contact him.
+
+
 The system shall display information that is customized based on the user's job function, application and location. This feature will improve service by reducing the mean number of web pages a user must navigate per session. It should reduce unnecessary phone calls.(I think it doesn't)
+
 
 
 Non-Functional Objectives
 
 Reliability
+
 Usability
+
 Performance
+
 Security
+
 Supportability
+
 Purchased Components
+
 Interfaces
