@@ -12,7 +12,7 @@ Step 2.The system requests a email and password.
 
 Step 3.The system requests to enter verification number.
 
-Step 4.The system requests to agree to the Posting Rules and List.am Terms of Service. (defect found:no terms document)
+Step 4.The system requests to agree to the Posting Rules and List.am Terms of Service. (defect found: there is no document with terms and rules to agree with)
 
 Step 5.The user enters a email and password.
 
