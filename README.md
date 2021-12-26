@@ -11,9 +11,8 @@
 Users:
 
 *Unsigned.
-
+*bla
 Guests, can find site navigation, product identification
-
 
 *Signed in (be able to access restricted areas of the site through a password protection scheme).
 
