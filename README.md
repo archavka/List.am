@@ -1,4 +1,4 @@
-# List.am-requirments
+#__List.am-requirments__
 
 This is a Requirements Specification document for List.am.
 
@@ -9,7 +9,7 @@ List.am provides a platform for people to connect around a life stage, a need, a
 
 Users:
 
--Unsigned.
+Unsigned.
 
 Guests, can find site navigation, product identification
 
