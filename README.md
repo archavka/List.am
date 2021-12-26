@@ -4,7 +4,7 @@
 
 ### Purpose of Document.
 
-[List.am](https://google.com) provides a platform for people to connect around a life stage, a need, a pastime, interest or passion. This document describes it's scope, objectives and goal. In addition to describing non-functional requirements, It also models the functional requirements with use cases.
+[List.am](https://list.am) provides a platform for people to connect around a life stage, a need, a pastime, interest or passion. This document describes it's scope, objectives and goal. In addition to describing non-functional requirements, It also models the functional requirements with use cases.
 
 
 
