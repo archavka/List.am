@@ -1,4 +1,4 @@
-#__List.am-requirments__
+# __List.am-requirments__
 
 This is a Requirements Specification document for List.am.
 
