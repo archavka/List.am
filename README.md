@@ -1,4 +1,4 @@
-# **List.am-requirments**
+# List.am-requirments
 
 This is a Requirements Specification document for List.am.
 
