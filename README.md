@@ -8,7 +8,8 @@ List.am provides a platform for people to connect around a life stage, a need, a
 
 
 Users:
-Unsigned.
+
+-Unsigned.
 
 Guests, can find site navigation, product identification
 
