@@ -6,64 +6,36 @@ In order to get personalized or restricted information, place orders or do other
 
 ## Basic Flow:
 
-Step 1.
+Step 1. The use case start when a user indicates that he wants to register.
 
-  The use case start when a user indicates that he wants to register.
+Step 2. The system requests an email and password.
 
-Step 2.
+Step 3. The system requests to enter verification number.
 
-  The system requests an email and password.
+Step 4. The system requests to agree to the Posting Rules and List.am Terms of Service. (defect found: there is no document with terms and rules to agree with)
 
-Step 3.
+Step 5. The user enters an email and password.
 
-  The system requests to enter verification number.
+Step 6. The user enters the verification number.
 
-Step 4.
+Step 7. The system checks that the email does not duplicate any existing registered email.
 
-  The system requests to agree to the Posting Rules and List.am Terms of Service. (defect found: there is no document with terms and rules to agree with)
+Step 8. The system checks that the verification number is correct.
 
-Step 5.
+Step 9. The system requests user's email address confirmation by sending instructions to users email address. "Check your email" button appears on the screen.
 
-  The user enters an email and password.
+Step 10. User clicks the "Check your email" button.
 
-Step 6.
+Step 11. The system redirects the user's to his personal email account to follow the instructions thet were send to his email address.
 
-  The user enters the verification number.
+Step 12. The user activates account by following that instructions.
 
-Step 7.
-
-  The system checks that the email does not duplicate any existing registered email.
-
-Step 8.
-
-  The system checks that the verification number is correct.
-
-Step 9.
-
-  The system requests user's email address confirmation by sending instructions to users email address. "Check your email" button appears on the screen.
-
-Step 10.
-
-  User clicks the "Check your email" button.
-
-Step 11.
-
-  The system redirects the user's to his personal email account to follow the instructions thet were send to his email address.
-
-Step 12.
-
-  The user activates account by following that instructions.
-
-Step 13.
-
-  The system starts a login session and displays a welcome message.
-
-
-### Alternative Flows:
-
-  * Step 7: If the username duplicates an existing username the system displays a message and the use case goes back to step 2.
-
-  * Step 8: If the user does not enter a required field, a message is displayed and the use case repeats from step 5.
+Step 13. The system starts a login session and displays a welcome message.
+  
+   ### Alternative Flows:
+    
+   * Step 7: If the username duplicates an existing username the system displays a message and the use case goes back to step 2.
+   * Step 8: If the user does not enter a required field, a message is displayed and the use case repeats from step 5.
 
 
 ### Postconditions:	
@@ -80,27 +52,17 @@ ___
 In order to get personalized or restricted information, place orders or do other specialized actions a user must login so that that the system can determine his access level.
 
 
-## Basic Flow:
+### Basic Flow:
 
-Step 1.
+Step 1. The use case starts when a user indicates that he wants to login.
 
-The use case starts when a user indicates that he wants to login.
+Step 2. The system requests the email and password.
 
-Step 2.
+Step 3. The user enters his email and password.
 
-The system requests the email and password.
+Step 4. The system verifies the email and password against all registered users.
 
-Step 3.
-
-The user enters his email and password.
-
-Step 4.
-
-The system verifies the email and password against all registered users.
-
-Step 5.
-
-The system starts a login session and displays a welcome message.
+Step 5. The system starts a login session and displays a welcome message.
 
 
 ### Alternative Flow:
