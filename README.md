@@ -10,7 +10,7 @@
 
 Users:
 
-*Unsigned.
+*Unsigned
 *bla
 Guests, can find site navigation, product identification
 
