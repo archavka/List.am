@@ -10,12 +10,12 @@
 
 Users:
 
-Unsigned.
+*Unsigned.
 
 Guests, can find site navigation, product identification
 
 
-Signed in (be able to access restricted areas of the site through a password protection scheme).
+*Signed in (be able to access restricted areas of the site through a password protection scheme).
 
 Buyers(can find site navigation, product identification and product ordering) and/or
 Product owners (allowed to maintain the data about their products).
