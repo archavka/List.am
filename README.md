@@ -1,4 +1,4 @@
-# _List.am-requirments_
+# _List.am-requirments_ 
 
 This is a Requirements Specification document for [List.am](https://list.am).
 
