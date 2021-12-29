@@ -41,6 +41,9 @@
       * ...
   
   Step 11. The system requests to fill the fields specifying the item.
+  
   Step 12. The user fills the empty feilds.
+  
   Step 13. The system checks filled data is matching the requirments of categories and subcategories.
+  
   Step 14. 
