@@ -12,7 +12,7 @@
   
   Step 4. The user enters his phone number.
   
-  Step 5. The system check's the phone number is valid and doesn't duplicate any existing user's phone number.
+  Step 5. The system checks the phone number is valid and doesn't duplicate any existing user's phone number.
   
   Step 6. The system sends SMS with digital verification code to provided phone number.
   
@@ -24,8 +24,23 @@
   
   Step 10. The system requests to select a category of the product form given options
     
-   * Marketplace
-   * Jobs
-   * Service
+   * Category 
+      * Subcategory 
+      * Subcategory
+      * Subcategory 
+      * ... 
+   * Category 
+      * Subcategory 
+      * Subcategory
+      * Subcategory
+      *  ...
+   * Category 
+      * Subcategory
+      * Subcategory
+      * Subcategory
+      * ...
   
-  Step 11. The system requests
+  Step 11. The system requests to fill the fields specifying the item.
+  Step 12. The user fills the empty feilds.
+  Step 13. The system checks filled data is matching the requirments of categories and subcategories.
+  Step 14. 
