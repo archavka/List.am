@@ -22,7 +22,7 @@
   
   Step 9. The user accepts the rules by clicking corresponding button.
   
-  Step 10. The system requests to select a category of the product form given options
+  Step 10. The system requests to select a category of the product from given options. 1 st step out of 4
     
    * Category 
       * Subcategory 
