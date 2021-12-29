@@ -22,7 +22,7 @@
   
   Step 9. The user accepts the rules by clicking corresponding button.
   
-  Step 10. The system requests to select a category of the product from given options. 1 st step out of 4
+  Step 10. The system requests to select a category of the product from given options. 1 st(category) step out of 4 shows up in GUI.
     
    * Category 
       * Subcategory 
@@ -40,10 +40,16 @@
       * Subcategory
       * ...
   
-  Step 11. The system requests to fill the fields specifying the item.
+  Step 11. The system requests to fill the fields specifying the item. 2nd step (compose) out of 4 shows up in GUI.
   
   Step 12. The user fills the empty feilds.
   
   Step 13. The system checks filled data is matching the requirments of categories and subcategories.
+
+  Step 14. The system displays 3rd step out of 4 as a perview of product to be posted.  
   
-  Step 14. 
+  Step 15. The user clicks the post button.
+  
+  Step 16. The system displays 4th step (publish) showing a message thet the item will be review by a moderator.
+  
+  Step 17. The system sends confirmation email to the user about the product has been placed.
