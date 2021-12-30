@@ -22,7 +22,7 @@
   
   Step 9. The user accepts the rules by clicking corresponding button.
   
-  Step 10. The system requests to select a category of the product from given options. 1 st(category) step out of 4 shows up in GUI.
+  Step 10. The system requests to select a category of the product from given options. Shows up 'Category', highlighted as a first step for out of 4 (1. Category  2. Compose  3. preview  4. Publish) in GUI.
     
    * Category 
       * Subcategory 
@@ -39,6 +39,8 @@
       * Subcategory
       * Subcategory
       * ...
+  
+  Missing step users actions
   
   Step 11. The system requests to fill the fields specifying the item. 2nd step (compose) out of 4 shows up in GUI.
   
